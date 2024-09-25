@@ -44,8 +44,8 @@ MERN-dashboard/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/rajbarasara/MERN-dashboard.git
-cd mern-dashboard
+git clone (https://github.com/RAJBARASARA/MERN-Dashboard)
+cd MERN-Dashboard
 ```
 
 ### 2. **Setup the server**:
